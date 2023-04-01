@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on Python & ML
 - :hammer: Just a learner
-- :meat_on_bone: 🏀 lover
+- 🏀 lover
 
