@@ -3,6 +3,6 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Python & ML
-- :hammer: Just a learner
+- :hammer: Keep loving & Keep moving 
 - 🏀 lover
 
