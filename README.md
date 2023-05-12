@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Python & ML
-- :hammer: Keep loving & Keep moving 
-- 🏀 lover
+- :orange_book: Focusing on Backend & DL
+- :hammer: Keep loving & moving 
+- 🏀 lover & 不良人
 
