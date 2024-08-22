@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on RecSys & BigData
-- :hammer: Keep loving & moving 
+- :hammer: Keep moving 
 - 🏀 & 🏸 lover
 
 
