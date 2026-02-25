@@ -2,9 +2,8 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on RecSys & BigData
+- :orange_book: Focusing on Recommender System
 - :hammer: Keep moving 
 - 🏀 & 🏸 lover
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
