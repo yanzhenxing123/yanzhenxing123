@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yanzhenxing123&show_icons=true&hide_title=true&theme=radical" />
+<img align="right" />
 
 ### 你好，世界 👋
 
